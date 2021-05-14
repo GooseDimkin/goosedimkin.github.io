@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goosedimkin.github.io/static/css/main.edd29e74.chunk.css",
+    "main.js": "/goosedimkin.github.io/static/js/main.0b9d95f9.chunk.js",
+    "main.js.map": "/goosedimkin.github.io/static/js/main.0b9d95f9.chunk.js.map",
+    "runtime-main.js": "/goosedimkin.github.io/static/js/runtime-main.e59b5b7f.js",
+    "runtime-main.js.map": "/goosedimkin.github.io/static/js/runtime-main.e59b5b7f.js.map",
+    "static/js/2.ee716666.chunk.js": "/goosedimkin.github.io/static/js/2.ee716666.chunk.js",
+    "static/js/2.ee716666.chunk.js.map": "/goosedimkin.github.io/static/js/2.ee716666.chunk.js.map",
+    "static/js/3.e626b1f5.chunk.js": "/goosedimkin.github.io/static/js/3.e626b1f5.chunk.js",
+    "static/js/3.e626b1f5.chunk.js.map": "/goosedimkin.github.io/static/js/3.e626b1f5.chunk.js.map",
+    "index.html": "/goosedimkin.github.io/index.html",
+    "static/css/main.edd29e74.chunk.css.map": "/goosedimkin.github.io/static/css/main.edd29e74.chunk.css.map",
+    "static/js/2.ee716666.chunk.js.LICENSE.txt": "/goosedimkin.github.io/static/js/2.ee716666.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e59b5b7f.js",
+    "static/js/2.ee716666.chunk.js",
+    "static/css/main.edd29e74.chunk.css",
+    "static/js/main.0b9d95f9.chunk.js"
+  ]
+}
