@@ -1,0 +1,66 @@
+.main_content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.user_name {
+  font-weight: 900;
+  font-size: 32px;
+  position: absolute;
+  margin-top: 24px;
+}
+
+.logout_button {
+  font-weight: 900;
+  font-size: 32px;
+  border: none;
+  background-color: white;
+  float: right;
+  margin-top: 24px;
+  border-radius: 8px;
+  padding: 0px 10px 0px 10px;
+}
+
+.logout_button:hover {
+  background-color: rgb(238, 238, 238);
+  cursor: pointer;
+}
+
+.new_contact_button {
+  width: 240px;
+  height: 48px;
+  border-radius: 6px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  margin-top: 89px;
+}
+
+.new_contact_button:hover {
+  background-color: rgb(31, 31, 31);
+  cursor: pointer;
+}
+
+.csv_contact_button {
+  width: 240px;
+  height: 48px;
+  border-radius: 6px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  margin-top: 89px;
+  margin-left: 33px;
+}
+
+.csv_contact_button:hover {
+  background-color: rgb(31, 31, 31);
+  cursor: pointer;
+}
+
+.contacts {
+  display: grid;
+  grid-template-columns:repeat(3, 1fr);
+  grid-column-gap: 50px;
+}

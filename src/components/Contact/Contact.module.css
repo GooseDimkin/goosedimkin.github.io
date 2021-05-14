@@ -1,0 +1,48 @@
+.contact_block {
+    width: 300px;
+    height: 290px;
+    border: 3px solid #BABABA;
+    border-radius: 8px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 14px;
+    margin-top: 41px;
+}
+
+.user_photo {
+    border-radius: 100px;
+    height: 136px;
+    width: 136px;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.call_button {
+    background: #06C668;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 6px;
+    height: 40px;
+    width: 100%;
+    margin-top: 22px;
+    font-size: 20px;
+    color: white;
+}
+
+.call_button:hover { 
+    background: #07d672;
+    cursor: pointer;
+}
+
+.edit_button {
+    cursor: pointer;
+    margin-left: 250px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
